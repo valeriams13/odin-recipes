@@ -1,0 +1,35 @@
+h1 {
+    background-color: yellowgreen;
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header3 {
+    background-color: aquamarine;
+    font-weight: 500px;
+}
+
+.header4{
+    background-color: darkgreen;
+    color: tomato;
+    font-weight: 300px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+#intro {
+    color: beige;
+    background-color: brown;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+}
